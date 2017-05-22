@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Hugo Site</title>
+    <link>https://frickelblog.github.io/HugoTestSite/</link>
+    <description>Recent content on Test Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://frickelblog.github.io/HugoTestSite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://frickelblog.github.io/HugoTestSite/extra/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/extra/code/</guid>
+      <description> HTML &amp;lt;section id=&amp;quot;main&amp;quot;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;quot;title&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Data.Pages }} {{ .Render &amp;quot;summary&amp;quot;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt;  PHP &amp;lt;? echo phpinfo(); return true; ?&amp;gt;  CSharp public class test() { public int test(string zahl) { return Convert.ToInt32(zahl); } }  </description>
+    </item>
+    
+    <item>
+      <title>Überschriften</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/ueberschriften/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/ueberschriften/</guid>
+      <description> # Header 1  Header 1 ## Header 2  Header 2 ### Header 3  Header 3 #### Header 4  Header 4 ##### Header 5  Header 5 ###### Header 6  Header 6 </description>
+    </item>
+    
+    <item>
+      <title>Text-Formatierungen</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/textformatierungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/textformatierungen/</guid>
+      <description>**Bold**  Bold *Italic*  Italic ~~Strikethrough~~  Strikethrough</description>
+    </item>
+    
+    <item>
+      <title>Listen</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/listen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/listen/</guid>
+      <description>- Listenpunkt1 - Listenpunkt2 - Listenpunkt3   Listenpunkt1 Listenpunkt2 Listenpunkt3  1. James Madison 2. James Monroe 3. John Quincy Adams   James Madison James Monroe John Quincy Adams  1. Make my changes 1. Fix bug 2. Improve formatting * Make the headings bigger 2. Push my commits to GitHub 3. Open a pull request * Describe my changes * Mention all the members of my team * Ask for feedback   Make my changes  Fix bug Improve formatting Make the headings bigger  Push my commits to GitHub Open a pull request  Describe my changes Mention all the members of my team  Ask for feedback     ToDo-Listen - [x] ToDo 1 - [ ] ToDo 2 - [ ] ToDo 3  ToDo 1</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/links/</guid>
+      <description>Syntax:
+[Link Text](http://www.link.de)  Beispiel:
+Dies ist ein Beispiel [Link Text](http://www.link.de).  Ausgabe: Dies ist ein Beispiel Link Text.</description>
+    </item>
+    
+    <item>
+      <title>Zitate</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/zitate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/zitate/</guid>
+      <description>In the words of Abraham Lincoln: &amp;gt; Pardon my French  In the words of Abraham Lincoln:
+ Pardon my French
+ Hier ein Zitiertes Zitat: &amp;gt; Das zitat war dieses: &amp;gt;&amp;gt; Ich Zitiere nicht!  Hier ein Zitiertes Zitat:
+ Das zitat war dieses:
+ Ich Zitiere nicht!
+  </description>
+    </item>
+    
+    <item>
+      <title>Bilder</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/bilder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/bilder/</guid>
+      <description>Syntax:
+[![Tooltip Text](http://www.URLzumBild.de/Bild.jpg)]  Beispiel:
+[![Bild](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAABmCAMAAAAOARRQAAAAY1BMVEX///8AAAAwMDCGhoZhYWH09PSlpaX19fXOzs78/PwYGBhMTEzq6uooKChlZWXj4+OsrKwfHx/X19c+Pj45OTm5ubl8fHyenp7d3d0QEBC/v7+Li4txcXGUlJRJSUlWVlZ4eHhwNMP8AAACLElEQVRoge2Z65KiMBCFuxUExAsCKuCFff+nXMARkk4yZmo7qdmqnF/qCXwk3XQuAgQFBQUFBQX9XnWHeuVIddR9QZoenSpvRkpZuaUgViVA4rgvo/oEzu4piGfw0JkhPLD1gdmCDwpiwPwnmFasRie18Vb0pRSV6tgnzEGsp2VN255S0b+JViYY2SdMJNVtpT5sJHstWrFgxD/DwEVuSlw2TJaLZrVzhIFGCM8+JSYfBs5LOl2px4hZwhNl1OLEwPPlnBQKL+a4nyg0MNyY19tzVTvDjMmG2x0SjcGLgSSqYt3vzBgoNYFxgDEoYAKGB9M19Ma7gmD6HW0it+8tMNcDrTCXC+3NRVOEZmV/bHqzwYd8WYFrisECzNpYDdoG2078nq40mNY8bMfWEoN1KVw1LAxUDOa6qjoqftqlwNjnaH7Y7I5aDD704cmkZdwHDM5Bf6ABo5vxBnXbn2DeMe7QhMFaN2zxXqJ8xOD0sOXKjJGXxF+SVng2mOdxeM8i/AYzbGCpxFy2w+A9me9owIgJOSklQ2aDwWvx/mTA4F2exXfq7twCs8iEIUvStXolDwbFrNYdaDBhqiWrj0pg+DCLNZULZ5i5Vj90FD5M9ZoFU83OmGKk97lQG99E/0bM6eLEcDjHtGEfNWa1NjAU848qdSPAj+k743kmJ6bVh58b8418YTwdQtJ5zolyXwfEno67PR3eAzSOw5O/txZd5OGPlaCgoKCgoKDfqL+n/yIR0u2vJwAAAABJRU5ErkJggg==)]  Ausgabe: 
+Alternativ: Bild mit Link:
+[![Tooltip Text](http://www.URLzumBild.de/Bild.jpg)](http://www.webseite.de)  </description>
+    </item>
+    
+    <item>
+      <title>Tabellen</title>
+      <link>https://frickelblog.github.io/HugoTestSite/basic/tabellen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frickelblog.github.io/HugoTestSite/basic/tabellen/</guid>
+      <description> Tabellen (Pipe-Style) |Right | Left | Default | Center | |-----:|:-----|---------|:------:| | 12 | 12 | 12 | 12 | | 123 | 123 | 123 | 123 | | 1 | 1 | 1 | 1 |     Right Left Default Center     12 12 12 12   123 123 123 123   1 1 1 1    </description>
+    </item>
+    
+  </channel>
+</rss>

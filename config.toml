@@ -1,0 +1,18 @@
+publishDir = "docs"
+buildDrafts = false
+BaseURL = "https://frickelblog.github.io/HugoTestSite"
+languageCode = "de-de"
+title = "Test Hugo Site"
+canonifyurls = true
+theme = "hugo-theme-frickelblog"
+
+[outputs]
+  home = [ "HTML", "AMP", "RSS", "JSON"]
+  page = [ "HTML", "RSS", "JSON"]
+  chapter = [ "HTML", "RSS", "JSON"]
+
+[params]
+  description = "Frickelbog Test Hugo Site"
+  author = "Frickelbog"
+  editURL = "http://frickelblog.github.io/HugoTestSite/content/"
+  search = true

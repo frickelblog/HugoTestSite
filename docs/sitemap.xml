@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/extra/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/ueberschriften/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/extra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/textformatierungen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/listen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/links/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/zitate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/bilder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/basic/tabellen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frickelblog.github.io/HugoTestSite/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
