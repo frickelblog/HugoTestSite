@@ -14,5 +14,5 @@ theme = "hugo-theme-frickelblog"
 [params]
   description = "Frickelbog Test Hugo Site"
   author = "Frickelbog"
-  editURL = "https://github.com/frickelblog/HugoTestSite/blob/master/content"
+  editURL = "https://github.com/frickelblog/HugoTestSite/blob/master/content/"
   search = true
